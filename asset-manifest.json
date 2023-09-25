@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PHrodidriguez/checklist/static/css/main.d50bbe35.css",
+    "main.js": "/PHrodidriguez/checklist/static/js/main.37f000c1.js",
+    "static/js/787.4493a02b.chunk.js": "/PHrodidriguez/checklist/static/js/787.4493a02b.chunk.js",
+    "index.html": "/PHrodidriguez/checklist/index.html",
+    "main.d50bbe35.css.map": "/PHrodidriguez/checklist/static/css/main.d50bbe35.css.map",
+    "main.37f000c1.js.map": "/PHrodidriguez/checklist/static/js/main.37f000c1.js.map",
+    "787.4493a02b.chunk.js.map": "/PHrodidriguez/checklist/static/js/787.4493a02b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50bbe35.css",
+    "static/js/main.37f000c1.js"
+  ]
+}
