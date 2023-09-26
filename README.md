@@ -1,4 +1,4 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=TO+DO+LIST+React.Js"/></a>
   
 
-Desenvolvi este app com uma estrutura bem simples de componentes.Comecei definindo o botao com simbolo de +, ele abre uma modal que contem um input. defino o input que começa com o UseState 0, em seguida adiciono uma variante para captar o valor deste input, defino o botão de adicionar tarefa que recebe a função de inserir o texto captado no input no componente inicial campo "minhas tarefas"
+I developed this app with a very simple structure of components. I started by defining the button with a + symbol, it opens a modal that contains an input. I define the input that starts with UseState 0, then I add a variant to capture the value of this input, I define the add task button that receives the function of inserting the text captured in the input in the initial component "my tasks" field
